@@ -1,0 +1,404 @@
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_Text\multiServerTestV01\bin\Release\multiServerTestV01.exe
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_Text\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_Text\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_Text\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_Text\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_Text\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_Text\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.exe
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+C:\Users\Chicken Can Fly\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+C:\Users\Truc\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+C:\Users\Truc\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+C:\Users\Truc\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.exe
+C:\Users\Truc\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+C:\Users\Truc\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csprojResolveAssemblyReference.cache
+C:\Users\Truc\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+C:\Users\Truc\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+C:\Users\Truc\Dropbox\working space\Test\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+C:\Users\Truc\Dropbox\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+C:\Users\Truc\Dropbox\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+C:\Users\Truc\Dropbox\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.exe
+C:\Users\Truc\Dropbox\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+C:\Users\Truc\Dropbox\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csprojResolveAssemblyReference.cache
+C:\Users\Truc\Dropbox\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+C:\Users\Truc\Dropbox\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+C:\Users\Truc\Dropbox\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.exe
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csprojResolveAssemblyReference.cache
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cv210.dll
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cvaux210.dll
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cxcore210.dll
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\highgui210.dll
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\ml210.dll
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.dll
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.UserInterface.dll
+D:\working space\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharpExtern.dll
+D:\working space\C#\storage\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+D:\working space\C#\storage\Server_version\Server_4\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cv210.dll
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cvaux210.dll
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cxcore210.dll
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\highgui210.dll
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\ml210.dll
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.dll
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.UserInterface.dll
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharpExtern.dll
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.exe
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csprojResolveAssemblyReference.cache
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+D:\working space\C#\storage\Server_version\Server_4 - Copy\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cv210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cvaux210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cxcore210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\highgui210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\ml210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.UserInterface.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharpExtern.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csprojResolveAssemblyReference.cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_5\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cv210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cvaux210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cxcore210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\highgui210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\ml210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.UserInterface.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharpExtern.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csprojResolveAssemblyReference.cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_6\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cv210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cvaux210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cxcore210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\highgui210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\ml210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.UserInterface.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharpExtern.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csprojResolveAssemblyReference.cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_7\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cv210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cvaux210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cxcore210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\highgui210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\ml210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.UserInterface.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharpExtern.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csprojResolveAssemblyReference.cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_9\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cv210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cvaux210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cxcore210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\highgui210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\ml210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.UserInterface.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharpExtern.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csprojResolveAssemblyReference.cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_10\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cv210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cvaux210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\cxcore210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\highgui210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\ml210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.UserInterface.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharpExtern.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csprojResolveAssemblyReference.cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_12\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.SimulationAlgorithm.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.UserInterface.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csprojResolveAssemblyReference.cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.SimulationAlgorithm.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\cv210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\cvaux210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\cxcore210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\highgui210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\ml210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\OpenCvSharp.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\OpenCvSharp.UserInterface.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\OpenCvSharpExtern.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\Third Party API\cv210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\Third Party API\cvaux210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\Third Party API\cxcore210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\Third Party API\highgui210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\Third Party API\ml210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\Third Party API\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\Third Party API\OpenCvSharp.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\Third Party API\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\Third Party API\OpenCvSharp.UserInterface.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\Third Party API\OpenCvSharpExtern.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\OpenCvSharp.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\bin\Release\OpenCvSharp.UserInterface.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\obj\x86\Release\multiServer.csprojResolveAssemblyReference.cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\obj\x86\Release\multiServerTestV01.SimulationAlgorithm.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Server_13\Muiltiserver_TextAndImage1\multiServerTestV01\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.exe
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\cv210.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\cvaux210.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\cxcore210.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\highgui210.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\ml210.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\OpenCvSharp.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\OpenCvSharp.UserInterface.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\Third Party API\OpenCvSharpExtern.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.exe
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\multiServerTestV01.pdb
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\bin\Release\OpenCvSharp.UserInterface.dll
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\ResolveAssemblyReference.cache
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Form1.resources
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\multiServerTestV01.SimulationAlgorithm.resources
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\GenerateResource.read.1.tlog
+D:\working space\C#\storage\Server_version\Server_14\Muiltiserver_TextAndImage\multiServerTestV01\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\Third Party API\cv210.dll
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\Third Party API\cvaux210.dll
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\Third Party API\cxcore210.dll
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\Third Party API\highgui210.dll
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\Third Party API\ml210.dll
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\Third Party API\OpenCvSharp.CPlusPlus.dll
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\Third Party API\OpenCvSharp.dll
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\Third Party API\OpenCvSharp.MachineLearning.dll
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\Third Party API\OpenCvSharp.UserInterface.dll
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\Third Party API\OpenCvSharpExtern.dll
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\multiServerTestV01.exe
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\multiServerTestV01.pdb
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\OpenCvSharp.dll
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\OpenCvSharp.MachineLearning.dll
+C:\Users\Truc\Desktop\D_Star For Test\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Truc\Desktop\D_Star For Test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Truc\Desktop\D_Star For Test\obj\x86\Release\multiServerTestV01.Form1.resources
+C:\Users\Truc\Desktop\D_Star For Test\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+C:\Users\Truc\Desktop\D_Star For Test\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Truc\Desktop\D_Star For Test\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Truc\Desktop\D_Star For Test\obj\x86\Release\multiServerTestV01.exe
+C:\Users\Truc\Desktop\D_Star For Test\obj\x86\Release\multiServerTestV01.pdb
+C:\Users\Truc\Desktop\D_Star For Test\obj\x86\Release\multiServerTestV01.A_Star_Form.resources
+C:\Users\Truc\Desktop\D_Star For Test\obj\x86\Release\multiServerTestV01.DStarLiteForm.resources
+C:\Users\Truc\Desktop\D_Star For Test\obj\x86\Release\multiServerTestV01.DStarForm.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\obj\x86\Release\multiServerTestV01.exe
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\obj\x86\Release\multiServerTestV01.pdb
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\Third Party API\cv210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\Third Party API\cvaux210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\Third Party API\cxcore210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\Third Party API\highgui210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\Third Party API\ml210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\Third Party API\OpenCvSharp.CPlusPlus.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\Third Party API\OpenCvSharp.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\Third Party API\OpenCvSharp.MachineLearning.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\Third Party API\OpenCvSharp.UserInterface.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\Third Party API\OpenCvSharpExtern.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\multiServerTestV01.exe
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\multiServerTestV01.pdb
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\OpenCvSharp.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\OpenCvSharp.MachineLearning.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\obj\x86\Release\multiServerTestV01.DStarLiteForm.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\obj\x86\Release\multiServerTestV01.A_Star_Form.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\obj\x86\Release\multiServerTestV01.Form1.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\obj\x86\Release\multiServerTestV01.DStarForm.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Truc\Desktop\Working Material\D_Star For Test\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\Third Party API\cv210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\Third Party API\cvaux210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\Third Party API\cxcore210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\Third Party API\highgui210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\Third Party API\ml210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\Third Party API\OpenCvSharp.CPlusPlus.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\Third Party API\OpenCvSharp.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\Third Party API\OpenCvSharp.MachineLearning.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\Third Party API\OpenCvSharp.UserInterface.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\Third Party API\OpenCvSharpExtern.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\multiServerTestV01.exe
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\multiServerTestV01.pdb
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\OpenCvSharp.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\OpenCvSharp.MachineLearning.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\obj\x86\Release\multiServerTestV01.DStarLiteForm.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\obj\x86\Release\multiServerTestV01.A_Star_Form.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\obj\x86\Release\multiServerTestV01.Form1.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\obj\x86\Release\multiServerTestV01.DStarForm.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\obj\x86\Release\multiServerTestV01.exe
+C:\Users\Truc\Desktop\Working Material\D_Star For Test - P\obj\x86\Release\multiServerTestV01.pdb
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\obj\x86\Release\multiServerTestV01.exe
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\obj\x86\Release\multiServerTestV01.pdb
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\Third Party API\cv210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\Third Party API\cvaux210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\Third Party API\cxcore210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\Third Party API\highgui210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\Third Party API\ml210.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\Third Party API\OpenCvSharp.CPlusPlus.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\Third Party API\OpenCvSharp.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\Third Party API\OpenCvSharp.MachineLearning.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\Third Party API\OpenCvSharp.UserInterface.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\Third Party API\OpenCvSharpExtern.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\multiServerTestV01.exe
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\multiServerTestV01.pdb
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\OpenCvSharp.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\OpenCvSharp.MachineLearning.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\obj\x86\Release\multiServerTestV01.DStarLiteForm.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\obj\x86\Release\multiServerTestV01.A_Star_Form.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\obj\x86\Release\multiServerTestV01.Form1.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\obj\x86\Release\multiServerTestV01.DStarForm.resources
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Truc\Desktop\Working Material\D_Star For Test -Perpendicular\obj\x86\Release\GenerateResource.write.1.tlog
+D:\working space\C#\storage\Server_version\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.exe
+D:\working space\C#\storage\Server_version\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\Third Party API\cv210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\Third Party API\cvaux210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\Third Party API\cxcore210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\Third Party API\highgui210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\Third Party API\ml210.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\Third Party API\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\Third Party API\OpenCvSharp.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\Third Party API\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\Third Party API\OpenCvSharp.UserInterface.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\Third Party API\OpenCvSharpExtern.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\multiServerTestV01.exe
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\multiServerTestV01.pdb
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\OpenCvSharp.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\bin\Release\OpenCvSharp.UserInterface.dll
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\obj\x86\Release\ResolveAssemblyReference.cache
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.DStarLiteForm.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.A_Star_Form.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.DStarForm.resources
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\obj\x86\Release\GenerateResource.read.1.tlog
+D:\working space\C#\Lab room\TcpIP_Working Version\Optimize server\PathPlanning -Perpendicular\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.exe
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.pdb
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\Third Party API\cv210.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\Third Party API\cvaux210.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\Third Party API\cxcore210.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\Third Party API\highgui210.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\Third Party API\ml210.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\Third Party API\OpenCvSharp.CPlusPlus.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\Third Party API\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\Third Party API\OpenCvSharp.MachineLearning.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\Third Party API\OpenCvSharp.UserInterface.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\Third Party API\OpenCvSharpExtern.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\multiServerTestV01.exe
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\multiServerTestV01.pdb
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\OpenCvSharp.MachineLearning.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\obj\x86\Release\multiServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.DStarLiteForm.resources
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.A_Star_Form.resources
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.DStarForm.resources
+C:\Users\Administrator\Desktop\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\obj\x86\Release\multiServer.csproj.GenerateResource.Cache
+D:\Master Doccuments\Project\PathPlanning\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.exe
+D:\Master Doccuments\Project\PathPlanning\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\obj\x86\Release\multiServerTestV01.pdb

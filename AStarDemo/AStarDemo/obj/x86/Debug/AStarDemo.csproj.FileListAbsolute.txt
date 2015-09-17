@@ -4,3 +4,5 @@ D:\Master Doccuments\Project\PathPlanning\Algorithm\AStarDemo\AStarDemo\obj\x86\
 D:\Master Doccuments\Project\PathPlanning\Algorithm\AStarDemo\AStarDemo\obj\x86\Debug\AStarDemo.csproj.GenerateResource.Cache
 D:\Master Doccuments\Project\PathPlanning\Algorithm\AStarDemo\AStarDemo\obj\x86\Debug\AStarDemo.exe
 D:\Master Doccuments\Project\PathPlanning\Algorithm\AStarDemo\AStarDemo\obj\x86\Debug\AStarDemo.pdb
+D:\Master Doccuments\Project\PathPlanning\Algorithm\MobileRobotProject\AStarDemo\AStarDemo\obj\x86\Debug\AStarDemo.exe
+D:\Master Doccuments\Project\PathPlanning\Algorithm\MobileRobotProject\AStarDemo\AStarDemo\obj\x86\Debug\AStarDemo.pdb
