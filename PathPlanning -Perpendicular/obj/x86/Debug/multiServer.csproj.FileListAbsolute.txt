@@ -369,3 +369,5 @@ D:\Master Doccuments\Project\PathPlanning\Path-Planning-Algorithms-master\PathPl
 D:\Master Doccuments\Project\PathPlanning\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\obj\x86\Debug\multiServer.csproj.GenerateResource.Cache
 D:\Master Doccuments\Project\PathPlanning\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\obj\x86\Debug\multiServerTestV01.exe
 D:\Master Doccuments\Project\PathPlanning\Path-Planning-Algorithms-master\PathPlanning -Perpendicular\obj\x86\Debug\multiServerTestV01.pdb
+D:\Master Doccuments\Project\PathPlanning\Algorithm\MobileRobotProject\PathPlanning -Perpendicular\obj\x86\Debug\multiServerTestV01.exe
+D:\Master Doccuments\Project\PathPlanning\Algorithm\MobileRobotProject\PathPlanning -Perpendicular\obj\x86\Debug\multiServerTestV01.pdb
